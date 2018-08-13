@@ -1,4 +1,4 @@
-### Code for Processing visual relationship detection
+### Code for Processing Visual Genome Dataset
 modified from:https://github.com/peteanderson80/bottom-up-attention
 
 #### VG dataset
